@@ -1,0 +1,20 @@
+Main method located at "stephen.cole.Main"
+
+To execute:
+# mvn clean compile exec:java -Dexec.mainClass="stephen.cole.Main"
+
+To run unit tests:
+# mvn test
+
+The node list and possible paths are output to the console.
+
+To output the word frequency in a text file, execute the shell script located in the folder "cisco-code-challenge". The output is directed to STDOUT.
+
+Ensure that the script is executable (chmod +x word-count.sh) 
+
+The script expects a text file as the only argument. Sample "text.txt" is provided.
+
+ex. # word-count.sh text.txt
+
+Stephen Cole
+smcole23@gmail.com
