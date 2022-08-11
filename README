@@ -15,6 +15,3 @@ Ensure that the script is executable (chmod +x word-count.sh)
 The script expects a text file as the only argument. Sample "text.txt" is provided.
 
 ex. # word-count.sh text.txt
-
-Stephen Cole
-smcole23@gmail.com
